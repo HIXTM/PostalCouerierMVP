@@ -1,0 +1,34 @@
+# Unreal Engine
+/Binaries/
+/Intermediate/
+/Saved/
+/Build/
+/Cooked/
+/StagedBuilds/
+/Plugins/*/Binaries/
+/Plugins/*/Intermediate/
+
+# Visual Studio
+*.sln
+*.vcxproj*
+*.filters
+*.user
+*.suo
+.vs/
+.vscode/
+
+# Executables & Debug
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# Logs & Temp
+*.log
+*.tmp
+*.cache
+Thumbs.db
+desktop.ini
+.DS_Store
